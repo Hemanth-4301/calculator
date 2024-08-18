@@ -13,7 +13,7 @@ body {
   color: black;
   text-align: center;
   margin-bottom: 20px;
-  padding: 5px 0;
+  padding: 10px 0;
   border-radius: 10px;
   border: 2px solid slategray;
 }
@@ -31,19 +31,18 @@ body {
 
 .calculator .value {
   grid-column: span 4;
-  height: 50px;
+  height: 40px;
   border-radius: 10px;
-  text-align: center;
   font-weight: bold;
-  font-size: 1.7rem;
+  font-size: 1.2rem;
+  text-align: center;
   border: 2px solid black;
 }
 .calculator span {
   color: white;
-  font-family: cursive;
   font-size: 1.5rem;
   text-align: center;
-  padding: 10px 15px;
+  padding: 5px 10px;
   color: black;
   background-color: rgb(223, 217, 209);
   border-radius: 5px;
@@ -52,7 +51,7 @@ body {
 .calculator span:active,
 span:hover {
   background: linear-gradient(45deg, rgb(228, 181, 189), rgb(125, 125, 228));
-  padding: 10px 15px;
+  padding: 5px 10px;
 }
 .calculator span.clear {
   grid-column: span 2;

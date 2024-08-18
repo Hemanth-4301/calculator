@@ -17,7 +17,7 @@ function App() {
   }
   return (
     <>
-      <h1 className="heading text-2xl font-bold">Calculator</h1>
+      <h1 className="heading text-2xl font-bold animate-bounce">Calculator</h1>
 
       <form className="calculator text-3xl font-bold">
         <input
