@@ -17,9 +17,9 @@ function App() {
   }
   return (
     <>
-      <h1 className="heading  text-xl ">Calculator</h1>
+      <h1 className="heading text-2xl font-bold">Calculator</h1>
 
-      <form className="calculator ">
+      <form className="calculator text-3xl font-bold">
         <input
           className="value"
           value={inValue}
@@ -33,7 +33,7 @@ function App() {
         <span onClick={() => display("7")}>7</span>
         <span onClick={() => display("8")}>8</span>
         <span onClick={() => display("9")}>9</span>
-        <span onClick={() => display("*")}>x</span>
+        <span onClick={() => display("*")}>X</span>
         <span onClick={() => display("4")}>4</span>
         <span onClick={() => display("5")}>5</span>
         <span onClick={() => display("6")}>6</span>
