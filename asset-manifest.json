@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hbd/static/css/main.273c90d3.css",
-    "main.js": "/hbd/static/js/main.3c4e0402.js",
-    "static/js/453.d5195dcb.chunk.js": "/hbd/static/js/453.d5195dcb.chunk.js",
-    "static/media/robo-bg.jpg": "/hbd/static/media/robo-bg.4b17384cf3003a7091ca.jpg",
-    "index.html": "/hbd/index.html",
-    "main.273c90d3.css.map": "/hbd/static/css/main.273c90d3.css.map",
-    "main.3c4e0402.js.map": "/hbd/static/js/main.3c4e0402.js.map",
-    "453.d5195dcb.chunk.js.map": "/hbd/static/js/453.d5195dcb.chunk.js.map"
+    "main.css": "/calculator/static/css/main.69a70c45.css",
+    "main.js": "/calculator/static/js/main.da300c3e.js",
+    "static/js/453.d5195dcb.chunk.js": "/calculator/static/js/453.d5195dcb.chunk.js",
+    "static/media/robo-bg.jpg": "/calculator/static/media/robo-bg.4b17384cf3003a7091ca.jpg",
+    "index.html": "/calculator/index.html",
+    "main.69a70c45.css.map": "/calculator/static/css/main.69a70c45.css.map",
+    "main.da300c3e.js.map": "/calculator/static/js/main.da300c3e.js.map",
+    "453.d5195dcb.chunk.js.map": "/calculator/static/js/453.d5195dcb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.273c90d3.css",
-    "static/js/main.3c4e0402.js"
+    "static/css/main.69a70c45.css",
+    "static/js/main.da300c3e.js"
   ]
 }
